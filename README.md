@@ -17,3 +17,5 @@ Made by Xtorbit & Jon2017
     setInterval(c, 10);
   setInterval(u, 100);
 })(angular);
+
+Note: Do not spam this in the console pannel (ctrl + shift + i) it will not work!
